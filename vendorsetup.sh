@@ -1,2 +1,1 @@
-add_lunch_combo to_j3xnlte-userdebug
-add_lunch_combo to_j3xnlte-eng
+add_lunch_combo to_j3xnlte-user
